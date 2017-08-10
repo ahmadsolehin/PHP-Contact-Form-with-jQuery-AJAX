@@ -21,3 +21,10 @@
 
 <li> It collects contact form input and sends it as the parameters to the second PHP page. </li>
 
+
+
+
+
+
+## screenshot
+
