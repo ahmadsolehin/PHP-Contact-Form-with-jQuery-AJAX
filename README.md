@@ -11,3 +11,5 @@
 
 ## jQuery AJAX Contact Form
 
+<li> This form contains the collection of inputs to get user feedback. It triggers jQuery AJAX call on the click event of its submit button. </li>
+
