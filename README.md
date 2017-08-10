@@ -17,3 +17,5 @@
 
 ## jQuery AJAX Contact Mail Sending Event Handler
 
+This jQuery script validates contact form input and sends AJAX request to a PHP page on successful validation. It collects contact form input and sends it as the parameters to the second PHP page.
+
