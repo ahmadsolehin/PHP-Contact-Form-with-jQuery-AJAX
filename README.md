@@ -8,3 +8,6 @@
 
 <li> After sending contact email, the PHP page will respond to the AJAX request. </li>
 
+
+## jQuery AJAX Contact Form
+
