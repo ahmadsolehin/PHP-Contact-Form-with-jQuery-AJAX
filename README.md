@@ -15,3 +15,5 @@
 
 <li> It triggers jQuery AJAX call on the click event of its submit button. </li>
 
+## jQuery AJAX Contact Mail Sending Event Handler
+
